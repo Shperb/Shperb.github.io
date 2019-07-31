@@ -7,7 +7,7 @@ venue: "Ben-Gurion University"
 location: "Be'er Sheva, Israel"
 ---
 
-Course lecturer between 2018 and 2020; course TA between 2017 and 2018; course grader between 2015 and 2016.
+Lecturer 2018-2020; TA 2017-2018; Grader 2015-2016.
 
 Course Objectives
 ======
