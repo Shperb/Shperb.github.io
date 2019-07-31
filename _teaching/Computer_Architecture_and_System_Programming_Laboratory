@@ -1,0 +1,108 @@
+---
+title: "Computer Architecture and System Programming Laboratory"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/CS_intro
+venue: "Ben-Gurion University"
+location: "Be'er Sheva, Israel"
+---
+
+Lab instructor, 2015-2016
+
+Course Objectives
+=====
+It is extremely important for a student of
+computing to understand some of the machinedependent aspects of computers, and how they
+might impinge on embedded software, and on
+systems software. This course covers the ground
+from a subsystem-level description of computers
+(also known as "computer organization"),
+through programmer-visible aspects of the
+machines ("computer architecture"), to assembly language issues. As such, the course is a bridge
+between the hardware and assembly language
+courses on our curriculum (Digital Systems and
+Introduction to Computers), and the pure
+programming courses, such as Systems
+Programming and Operating Systems.
+As one of the goals of the course is to enable the
+student to quickly learn to use any newly
+encountered architecture, we focus mostly on
+principles, rather than on a particular machine.
+Nevertheless, as a case study (and in order to
+provide hands-on experience), the course will
+discuss one CISC machine (Intel series 80X86).
+Machine-specific assembly language, and
+advanced issues in low-level programming will be
+the main topic of the exercise sessions. In
+particular, a special new feature of this course
+examines malicious programming and how
+understanding machine code helps us prevent it
+or detect it. We will examine basic worm-holes,
+and executable file virus operation techniques,
+and how to help prevent their attacks.
+As this course centers on low level, and in order
+to avoid overlap, this course is now merged with
+the Systems Programming Lab. The Lab is based
+on a LINUX platform, and uses the C
+programming language. As in the architecture
+part of the course, the emphasis is on low-level
+programming. Goals of this lab are to introduce
+issues in low level programming, as well as
+techniques on how to learn needed information
+on demand, via hands-on experience.
+
+
+Syllabus Overview
+======
+Review of basic architecture
+Machine and assembly languages (generic)
+The process of assembly and linking
+Special assembly language programming issues
+Parameter passing: assembly language and
+"external"
+Return addresses and co-routines
+Traps and interrupts: mechanism and handling
+Worms and viruses: malicious code and
+defending against it.
+Architecture design considerations - CISC vs. RISC
+Special miscellaneous topics
+Operating system interface: traps and interrupts,
+Access to IO devices: display, keyboard, disks,
+real-time clocks, DMA, Communications (serial and parallel), simple
+error detection and correction codes (parity,
+Hamming), handshakes.
+
+Topics Covered in the Labs
+======
+The Lab will be based on a LINUX platform, and
+use the C programming language. The emphasis
+is on low-level programming. Goals of this lab are
+to introduce issues in low level programming, as
+well as techniques on how to learn needed
+information on demand. The following topics will
+be covered via hands-on experience during this
+course:
+Low level programming in C. This includes all
+sorts of "tricks" that emphasizes the power of
+low-level computing, as an aid to understanding
+computing systems in depth:
+Pointers to functions and their applications.
+Self modifying code and applications.
+Binary files of various types: structure and
+processing.
+Maintaining data structures in files (e.g. pointers
+to structures, Linux directories).
+Object and executable files (demonstrated
+through ELF files).
+Linking and Loading.
+Using operating systems services (system calls):
+Process control: creating and terminating
+processes, process control, signals. Will be
+introduced by programming a simple shell.
+System-level Input/Output: read, write files, file
+metadata, sharing files.
+Issues in program development:
+Debugging programs, and the effect of
+compound bugs (e.g. various types of memory
+leaks, compiler bugs).
+Patching and hacking.
