@@ -1,0 +1,23 @@
+---
+title: "Introduction to Artificial Intelligent"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/Introduction_to_Artificial_Intelligent
+venue: "Ben-Gurion University"
+location: "Be'er Sheva, Israel"
+---
+
+Grader, 2018-2019
+
+Course Info
+======
+The course will be heavily based on the book "Artificial Intelligence - A Modern Approach", by
+Stuart Russel and Peter Norvig. As the book covers at least a 2-semester course, we will only cover
+the basics and some selected topics, as follows (with the relevant book chapters listed in tandem):
+1. What is AI? Intelligent agents (chaps. 1, 2)
+2. Problem solving and search + game playing (chaps. 3, 4, 5)
+3. Knowledge and Reasoning (chaps. 6, 7, 9.1-9.6, 10.1-10.6, 10.8)
+4. Overview of planning (gloss on chapters 11, 12, 13)*
+5. Handling uncertainty (gloss on chapters 14, 15.1-15.4)
+6. Learning (chapters 18.1-18.4, 19.1-19.5, 20.8)
+7. Perception - computer vision (part of chapter 24)* 
