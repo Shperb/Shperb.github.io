@@ -3,9 +3,8 @@ title: "Compiler Principles"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Compiler_Principles
-venue: "University 1, "
-date: 2018-01-01
-location: "City, Country"
+venue: "Ben-Gurion University"
+location: "Be'er Sheva, Israel"
 ---
 
 Course lecturer between 2018 and 2020; course TA between 2017 and 2018; course grader between 2015 and 2016.
@@ -106,12 +105,8 @@ References: [1], [2], [3], and notes
 * Common Sub-expression Elimination, both as a high-level and lowlevel optimization
 * Optimizations for super-pipelined and parallel architectures
 
-## refrences
-
-1. [1]:Textbook: Modern Compiler Design, by D. Grune, H. Bal, C. Jacobs, K. Langendoen
-2. [2]:LISP in Small Pieces, by Christian Queinnec
-3. [3]:The Anatomy of LISP, by John Allen
-4. [4]:The Structure & Interpretation of Computer Programs, by Harold
-Abelson, et al.
-5. [5]:Essentials of Programming Languages, by Daniel P. Friedman, Mitchell
-Wand, Christopher T. Haynes
+[1]:Textbook: Modern Compiler Design, by D. Grune, H. Bal, C. Jacobs, K. Langendoen
+[2]:LISP in Small Pieces, by Christian Queinnec
+[3]:The Anatomy of LISP, by John Allen
+[4]:The Structure & Interpretation of Computer Programs, by Harold Abelson, et al.
+[5]:Essentials of Programming Languages, by Daniel P. Friedman, Mitchell Wand, Christopher T. Haynes
