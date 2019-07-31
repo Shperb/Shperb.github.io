@@ -1,0 +1,53 @@
+---
+title: "Workshop on Software Engineering Project"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/WSEP
+venue: "Ben-Gurion University"
+location: "Be'er Sheva, Israel"
+---
+
+Project Advisor, 2016-2020
+
+Course Info
+======
+This course is about implementing a software
+engineering project, using SE methodologies and
+principles taught in other courses, and using
+modern software technologies. The course
+functions as an SE-lab, where the students cope
+with a demanding SE task in a guided manner.
+The lab mimics a natural SE-development task,
+where usage of SE procedures is valuable and
+productive. It embodies the following features:
+* Adopt an agile development approach.
+* Maintenance challenges: Create a natural
+environment of successive changes due to
+complex evolution.
+* Enable a thoughtful non-naïve customer
+(course staff), that plan intentionally complex
+requirements.
+* Insist on product validation.
+* Enforce SE-systematic development, including
+models, validation, testing, requirements
+analysis and reliability.
+* Cope with technology challenges.
+* Structured teamwork.
+The goal of the lab is to acquire experience in
+using SE methodologies, methods and
+technologies.
+management, bug tracking, unit testing, and
+version control.
+The students in the course are organized in small
+student groups. All groups implement the
+software project which is the course theme.
+Within a group, the members take alternating
+roles as version leader, developer, and tester. The
+course staff takes the role of the customers,
+providing an initial requirement document. Each
+group has a staff member that functions as its
+advisor. The group meets its advisor once in two
+weeks, for a 2 hour long meeting. In that meeting
+the group presents its development for the current
+version, and one group member presents a topic
+that is relevant for the next version.
