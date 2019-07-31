@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Compiler_Principles
 venue: "Ben-Gurion University"
-date: 2015-2020
 location: "Be'er Sheva, Israel"
 ---
 
