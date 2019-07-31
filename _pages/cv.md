@@ -30,15 +30,6 @@ Awards and Honors
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 * 2014-2015: Software Developer at Applied Materials Israel
   * Part of a group developing tools for mask defect analysis in C++.
   * Designing and developing features for the inspection system, writing and optimizing algorithms for complex problems in a real time concurrent environment, maintaining and developing desktop application, working with MS SQL database and writing utility scripts (VBscript).
