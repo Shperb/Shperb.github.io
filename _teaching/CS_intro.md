@@ -20,13 +20,13 @@ programming language.
 The main topics covered in this course are as follows:
 1. Introduction to data structures and
 algorithms.
-2.Principles of procedural and object-oriented
+2. Principles of procedural and object-oriented
 programming, polymorphism, abstract classes
 and interfaces.
-3.Recursive definitions and programs.
-4.Algorithmic efficiency: upper bounds and
+3. Recursive definitions and programs.
+4. Algorithmic efficiency: upper bounds and
 computation of running time for basic sorting
 and searching algorithms.
-5.Java as a regular programming language,
+5. Java as a regular programming language,
 with examples from various areas in Computer
 Science, such as abstract data structures.
