@@ -1,7 +1,7 @@
 ---
 title: "Enriching Non-Parametric Bidirectional Search Algorithms - Extended Abstract"
 collection: publications
-permalink: /publication/2019-01-01-Enriching-Non-Parametric-Bidirectional-Search-Algorithms-Extended-Abstract
+permalink: /publication/Enriching-Non-Parametric-Bidirectional-Search-Algorithms-Extended-Abstract
 date: 2019-01-01
 venue: 'In the proceedings of SOCS'
 citation: ' Shahaf Shperberg,  Ariel Felner,  Nathan Sturtevant,  Solomon Shimony,  Avi Hayoun, &quot;Enriching Non-Parametric Bidirectional Search Algorithms - Extended Abstract.&quot; In the proceedings of SOCS, 2019.'
