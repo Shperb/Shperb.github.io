@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Software Engineering (with great honor) from Ben-Gurion University – 92.93 GPA.
-* M.Sc. in computer science (with great honor) from Ben-Gurion University under the guidance of Prof. Eyal Shimony, as part of the fast track for excellent students program – 97.6 GPA
-* Ph.D candidate in computer science at Ben-Gurion University, under the guidance of Prof. Eyal Shimony – 97.85 GPA.
+* B.Sc. in Software Engineering (with highest honors) from Ben-Gurion University.
+* M.Sc. in computer science (with highest honors) from Ben-Gurion University under the guidance of Prof. Eyal Shimony, as part of the fast track for excellent students program.
+* Ph.D candidate in computer science at Ben-Gurion University, under the guidance of Prof. Eyal Shimony.
 
 Awards and Honors
 =====
+* Award on behalf of the Rector of Ben-Gurion University for excellence in study and research (2020).
 *	Friedman award for outstanding achievements in research (2019).
 * Zabey award for research excellence in: Physics, Computer Science, and Math (2019).
 * [Best paper and student paper awards](/publication/Improving-Bidirectional-Heuristic-Search-by-Bounds-Propagation), SoCS 2019.
