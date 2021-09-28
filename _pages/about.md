@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Computer Science department](https://in.bgu.ac.il/en/natural_science/cs/Pages/default.aspx) at Ben-Gurion University of the Negev, under the supervision of [Prof. Solomon Eyal Shimony](https://www.cs.bgu.ac.il/~shimony/). My main research area is decision-making under uncertainty, while focusing on applying reasoning at the meta-level (<em>meta-reasoning</em>), and on computing and utilizing <em>value of information</em>. My secondary research area is <em>heuristic search</em>, particularly in <em>bidirectional  heuristic search</em>.
+I am a postdoctoral fellow at the [Learning Agents Research Group (LARG)](https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group) in the Department of Computer Science at The University of Texas at Austin, directed by [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/).
+
+I have completed my Ph.D. in the [Computer Science department](https://in.bgu.ac.il/en/natural_science/cs/Pages/default.aspx) at Ben-Gurion University of the Negev, under the supervision of [Prof. Solomon Eyal Shimony](https://www.cs.bgu.ac.il/~shimony/). 
+
+My focus is on improving the abilities of agents to reason about their computation actions and decisions in order to solve complex problems in challenging environments.
+In order to achieve that, my research rely on different methods such as
+meta-reasoning, (sequential) decision making, heuristic search and reinforcement learning.

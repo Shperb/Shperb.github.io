@@ -9,11 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Higher Education
 ======
-* B.Sc. in Software Engineering (with highest honors) from Ben-Gurion University.
-* M.Sc. in computer science (with highest honors) from Ben-Gurion University under the guidance of Prof. Eyal Shimony, as part of the fast track for excellent students program.
-* Ph.D candidate in computer science at Ben-Gurion University, under the guidance of Prof. Eyal Shimony.
+* B.Sc. (summa cum laude) in Software Engineering, Ben-Gurion University.
+* M.Sc. (summa cum laude) in Computer Science, Ben-Gurion University, supervised by Prof. Eyal Solomon Shimony.
+* Ph.D. in computer science at Ben-Gurion University, under the guidance of Prof. Eyal Shimony.
+
+Work experience
+======
+* 2021-Today: Postdoctoral fellow in the Department of Computer Science at The University of Texas at Austin.
+* 2015-2021: Research student and Lecturer/TA at the CS Department of Ben-Gurion University
+* 2014-2015: Software Developer at Applied Materials Israel
 
 Awards and Honors
 =====
@@ -28,18 +34,24 @@ Awards and Honors
 *	Award on behalf of the Software Engineering program chair for excellence in study (2015).
 *	1st place winner in Innovate2Educate Hackathon. Winning project:  3D AnatoMe (2015).
 
-
-Work experience
+Noteworthy Activities and Skills
 ======
-* 2014-2015: Software Developer at Applied Materials Israel
-  * Part of a group developing tools for mask defect analysis in C++.
-  * Designing and developing features for the inspection system, writing and optimizing algorithms for complex problems in a real time concurrent environment, maintaining and developing desktop application, working with MS SQL database and writing utility scripts (VBscript).
-* 2008-2013: Officer (captain) at IDF
-  *	Experience as a team leader - Leading a team of 2 officers and 8 soldiers. 
-  *	Award of excellence from the chief of the Ground forces, Aluf Avi Mizrahi.
-  *	Award of excellence from the head of the Ground Forces Personnel Division, Tat Aluf Igal Slovik.
+*	Proficient software developer with experience in many programing languages, programming paradigm and technologies.
+*	Reviewing for the AI research community:
+    *	Conferences Program Committee (PC):
+        * International Joint Conference on Artificial Intelligence (IJCAI)
+        * AAAI Conference on Artificial Intelligence (AAAI)
+    *	Journal Reviews:
+        *	Journal of Artificial Intelligence Research (JAIR)
+        *	Artificial Intelligence Journal (AIJ)
+        *	WIREs Data Mining and Knowledge Discovery
 
-  
+Academia-Industry Collaboration
+======
+*	Multi-Dimensional Metrology (MDM) consortium (2017 – 2020): 
+    *	Developing approaches for both hyperparameter optimization, and for learning Bayesian network structures using privileged information.
+    *	Collaborating with Applied Materials and Nova.
+
 
 Publications
 ======

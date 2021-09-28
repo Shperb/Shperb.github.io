@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shahaf S. Shperberg"
   avatar           : "profile_Shahaf2.jpg"
-  bio              : "Ph.D. Student in the Computer Sceince Department at the Ben-Gurion University of the Negev"
-  location         : "Be'er Sheva, Israel"
+  bio              : "Postdoctoral fellow at the Learning Agents Research Group (LARG) in the Department of Computer Science at The University of Texas at Austin"
+  location         : "Austin, Texas, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.il/citations?user=yXvXtrMAAAAJ&hl=en"
-  email            : "shperbsh@post.bgu.ac.il"
+  email            : "s.shperberg@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
