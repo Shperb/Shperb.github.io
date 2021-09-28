@@ -11,9 +11,9 @@ redirect_from:
 
 Higher Education
 ======
-* B.Sc. (summa cum laude) in Software Engineering, Ben-Gurion University.
-* M.Sc. (summa cum laude) in Computer Science, Ben-Gurion University, supervised by Prof. Eyal Solomon Shimony.
 * Ph.D. in computer science at Ben-Gurion University, under the guidance of Prof. Eyal Shimony.
+* M.Sc. (summa cum laude) in Computer Science, Ben-Gurion University, supervised by Prof. Eyal Solomon Shimony.
+* B.Sc. (summa cum laude) in Software Engineering, Ben-Gurion University.
 
 Work experience
 ======
@@ -21,18 +21,33 @@ Work experience
 * 2015-2021: Research student and Lecturer/TA at the CS Department of Ben-Gurion University
 * 2014-2015: Software Developer at Applied Materials Israel
 
+* 2017-2021: Ph.D candidate in Computer Science, Ben-Gurion University, supervised by Prof. Eyal Solomon Shimony. Dissertation topic: “Meta-level techniques for planning, search, and scheduling”.
+
+* 2016-2017: M.Sc. (summa cum laude) in Computer Science, Ben-Gurion University, supervised by Prof. Eyal Solomon Shimony.
+
+* 2012-2016: B.Sc. (summa cum laude) in Software Engineering, Ben-Gurion University.
+
+
+
 Awards and Honors
-=====
-* Award on behalf of the Rector of Ben-Gurion University for excellence in study and research (2020).
-*	Friedman award for outstanding achievements in research (2019).
-* Zabey award for research excellence in: Physics, Computer Science, and Math (2019).
-* [Best paper and student paper awards](/publication/Improving-Bidirectional-Heuristic-Search-by-Bounds-Propagation), SoCS 2019.
-*	Friedman award for outstanding achievements in research (2017).
-*	Award on behalf the Dean of the faculty of Natural Sciences for excellence in study and research (2016).
-*	Award on behalf of the Rector of Ben-Gurion University for excellence in study (2016).
-*	1st place winner in HackIDC 2016, Israel’s leading student Hackathon. Winning project: betYOURwish (2016).
-*	Award on behalf of the Software Engineering program chair for excellence in study (2015).
-*	1st place winner in Innovate2Educate Hackathon. Winning project:  3D AnatoMe (2015).
+======
+* Ph.D
+  *	Award on behalf of the Rector of Ben-Gurion University for excellence in study and research (2020).
+  *	Friedman award for outstanding achievements in research (2019).
+  *	[Best paper and best student paper awards](/publication/Improving-Bidirectional-Heuristic-Search-by-Bounds-Propagation), SoCS 2019.
+  *	NEGEV Scholarship for Outstanding PhD students, Ben Gurion University (2017).
+* M.Sc
+  *	Graduated with highest honors (summa cum laude).
+  *	Zabey award for an excellent master’s thesis in: Physics, Computer Science, and Math (2019).
+  *	Friedman award for outstanding achievements in research (2017).
+  *	Award on behalf the Dean of the faculty of Natural Sciences (Ben-Gurion University) for excellence in study and research (2016).
+* B.Sc
+  *	Graduated with highest honors (summa cum laude).
+  *	Award on behalf of the Rector of Ben-Gurion University for excellence in study (2016).
+  *	Award on behalf of the Software Engineering program chair for excellence in study (2015).
+  *	1st place winner in HackIDC 2016, Israel’s leading student Hackathon. Winning project: [betYOURwish](https://docs.google.com/presentation/d/1IVHEMDHGeUnInYi9tN4e6p7tsvh8hAsR-LOuSeyeKNc/pub?start=false&loop=false&delayms=60000&slide=id.p3) (2016). 
+  *	1st place winner in Innovate2Educate Hackathon. Winning project: [3D AnatoMe](http://galiaappel.com/site/anatome.html) (2015).
+
 
 Noteworthy Activities and Skills
 ======
@@ -52,6 +67,12 @@ Academia-Industry Collaboration
     *	Developing approaches for both hyperparameter optimization, and for learning Bayesian network structures using privileged information.
     *	Collaborating with Applied Materials and Nova.
 
+Teaching (CS Department of Ben-Gurion University)
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Publications
 ======
@@ -60,8 +81,4 @@ Publications
   {% endfor %}</ul>
   
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
