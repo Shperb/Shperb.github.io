@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shahaf S. Shperberg"
 title_separator          : "-"
 name                     : &name "Shahaf S. Shperberg"
-description              : &description "PhD student at the Computer Sience Department of Ben-Gurion University of the Negev"
+description              : &description "Postdoctoral Fellow at the Computer Sience Department of the University of Texas as Austin"
 url                      : https://Shperb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shperb.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shahaf S. Shperberg"
-  avatar           : "profile_Shahaf2.jpg"
+  avatar           : "Shperberg-Shahaf-01.jpg"
   bio              : "Postdoctoral fellow at the Learning Agents Research Group (LARG) in the Department of Computer Science at The University of Texas at Austin"
   location         : "Austin, Texas, USA"
   employer         :
