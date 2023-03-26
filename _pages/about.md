@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an Assistant Professor at the Department of Software and Information Systems Engineering at Ben-Gurion University of the Negev in Israel. My area of research focuses on enhancing the cognitive abilities of agents to reason about their computation actions and decisions, with the aim of solving complex problems in challenging environments, specifically in the context of sequential decision-making. To achieve this objective, my research utilizes various methods, including meta-reasoning, heuristic search, planning, and (deep) reinforcement learning.
 
-I am a postdoctoral fellow at the [Learning Agents Research Group (LARG)](https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group) in the Department of Computer Science at The University of Texas at Austin, directed by [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/).
+Previously, I was a Postdoctoral Fellow at [Learning Agents Research Group (LARG)](https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group) in the Department of Computer Science at The University of Texas at Austin, under the supervision of [Proffessor Peter Stone](https://www.cs.utexas.edu/~pstone/). I obtained my Ph.D. degree from the Computer Science Department at Ben-Gurion University of the Negev, under the guidance of [Professor Solomon Eyal Shimony](https://www.cs.bgu.ac.il/~shimony/).
 
-I have completed my Ph.D. in the [Computer Science department](https://in.bgu.ac.il/en/natural_science/cs/Pages/default.aspx) at Ben-Gurion University of the Negev, under the supervision of [Prof. Solomon Eyal Shimony](https://www.cs.bgu.ac.il/~shimony/). 
-
-My focus is on improving the abilities of agents to reason about their computation actions and decisions in order to solve complex problems in challenging environments.
-In order to achieve that, my research rely on different methods such as
-meta-reasoning, (sequential) decision making, heuristic search and reinforcement learning.
